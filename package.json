@@ -60,7 +60,7 @@
     "prop-types": "^15.6.0",
     "react-resize-detector": "1.1.0",
     "react-smooth": "1.0.0",
-    "recharts-scale": "0.3.2",
+    "recharts-scale": "git+ssh://git@github.com/ofk/recharts-scale.git#v0.3.2-patch",
     "reduce-css-calc": "1.3.0"
   },
   "devDependencies": {
